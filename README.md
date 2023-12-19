@@ -5,15 +5,31 @@ https://github.com/bitbytebitco/2BitUpCounter_pcb/assets/45221627/b6b2ab18-c1f2-
 
 _Note: Silkscreen is accidentally Big-Endian_
 # PCB layouts
-#### Front
+_Click links to reveal images_
+<details>
+  <summary>Front</summary>
+  
 ![Front](2bitcounter_rev3_front.png)
+</details>
+<details>
+  <summary>Back</summary>
+  
+  ![Front](2bitcounter_rev3_back.png)
+</details>
 
-#### Back
-![Front](2bitcounter_rev3_back.png)
 
 # Digital Design Process
-#### Functional Design
-<img src="UpCounterFSM.jpg" width="50%" />
+_Click links to reveal images_
+<details>
+  <summary>Functional Design</summary>
+  
+  <img src="UpCounterFSM.jpg" width="50%" />
+</details>
 
-#### Synthesis
-<img src="UpCounter_OutputLogic.jpg" width="75%" />
+<details>
+  <summary>Synthesis</summary>
+  
+  <img src="UpCounter_OutputLogic.jpg" width="75%" />
+</details>
+
+
