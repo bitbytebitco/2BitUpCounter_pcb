@@ -10,3 +10,10 @@ _Note: Silkscreen is accidentally Big-Endian_
 
 #### Back
 ![Front](2bitcounter_rev3_back.png)
+
+# Digital Design Process
+#### Functional Design
+<img src="UpCounterFSM.jpg" width="50%" />
+
+#### Synthesis
+<img src="UpCounter_OutputLogic.jpg" width="75%" />
